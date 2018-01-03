@@ -1,1 +1,2 @@
-# Basic Android Accessibility Test Setup
+## Basic Android Accessibility Test Setup
+This is a sample project to demonstrate Espresso 3.0.1 and 3.0.0 build issues and a basic UI test for accessibility. Full description of the problems found on [my blog post](https://davidtruxall.com/set-up-espresso-accessibility/)
